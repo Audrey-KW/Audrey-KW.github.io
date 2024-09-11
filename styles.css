@@ -1,9 +1,12 @@
 body {
     background: #272F1E;
-    font-family: Palatino, Baskerville, serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 40px;
     }
     h1 {
     text-align: center;
+    color: #b7c4ab;
+    }
+    h2 {
     color: #b7c4ab;
     }
