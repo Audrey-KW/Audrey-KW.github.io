@@ -7,6 +7,9 @@ body {
     text-align: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: #b7c4ab;
+    border-style: dotted;
+    border: 5px;
+    border-radius: 10px;
     }
     h2 {
     color: #b7c4ab;
