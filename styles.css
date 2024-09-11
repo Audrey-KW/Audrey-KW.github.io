@@ -1,5 +1,5 @@
 body {
-    background: #272F1E;
+    background: #4C583F;
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 40px;
     }
@@ -9,4 +9,7 @@ body {
     }
     h2 {
     color: #b7c4ab;
+    }
+    p {
+    color: #b7c4ab
     }
