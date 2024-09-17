@@ -1,20 +1,20 @@
 body {
-    background: #4C583F;
+    background: #72865B;
     font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
     margin: 40px;
     }
     h1 {
     text-align: center;
     font-family: Georgia, Times, 'Times New Roman', serif;
-    color: #b7c4ab;
+    color: #e7f1dd;
     border-style: dotted;
     border-width: .15em;
     border-radius: 25px;
-    border-color: #D3C1AB;
+    border-color: #FFCDCD;
     }
     h2 {
-    color: #b7c4ab;
+    color: #e7f1dd;
     }
     p {
-    color: #b7c4ab
+    color: #e7f1dd
     }
