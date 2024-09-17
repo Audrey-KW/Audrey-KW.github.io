@@ -12,6 +12,9 @@ body {
     border-radius: 25px;
     border-color: #FFCDCD;
     }
+    img {
+    position: relative; right: 50; top: 50;
+    }
     h2 {
     color: #e7f1dd;
     }
