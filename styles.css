@@ -19,7 +19,7 @@ body {
     p {
     color: #eaffe4;
     }
-    .projects { display:flex; flex-wrap:wrap; } 
+    .projects { display:flex; flex-wrap:wrap; width: auto; } 
 .project {
 width: 10%;
 margin: 10px;
