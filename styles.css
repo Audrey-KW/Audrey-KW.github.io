@@ -25,9 +25,13 @@ body {
    
 h2 {
     color: #eaffe4;
+    background: #93c58a; /* pick a color */
+    border-radius: 25%;
     }
 p {
     color: #eaffe4;
+    background: #93c58a; /* pick a color */
+    border-radius: 25%;
     }
 .projects { 
     display:flex; 
