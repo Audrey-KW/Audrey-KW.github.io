@@ -3,7 +3,7 @@ body {
     font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
     margin: 40px;
     }
-    h1 {
+h1 {
     text-align: center;
     font-family: Georgia, Times, 'Times New Roman', serif;
     color: #e28694;
@@ -13,20 +13,24 @@ body {
     border-color: #e28694;
     }
    
-    h2 {
+h2 {
     color: #eaffe4;
     }
-    p {
+p {
     color: #eaffe4;
     }
-.projects { display:flex; flex-wrap:wrap; width: auto; } 
+.projects { 
+    display:flex; 
+    flex-wrap:wrap; 
+    width: auto; 
+    } 
 .project {
-width: 30%;
-margin: 10px;
-padding: 20px 10px;
-background: #93c58a; /* pick a color */
-border-radius: 25%;
-}
+    width: 30%;
+    margin: 10px;
+    padding: 20px 10px;
+    background: #93c58a; /* pick a color */
+    border-radius: 25%;
+    }
 .project img{
     width: 300px;
     height: 300px;
@@ -36,10 +40,10 @@ border-radius: 25%;
     margin: auto;
     }
 a { 
-text-decoration: none;
-color: #e28694;
-}
+    text-decoration: none;
+    color: #e28694;
+    }
 .project p { 
-text-align: center;
- margin: 15px;
- }
+    text-align: center;
+    margin: 15px;
+    }
