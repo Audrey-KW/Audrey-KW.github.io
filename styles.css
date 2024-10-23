@@ -1,6 +1,6 @@
 body {
     background: #cad2a1;
-    font-family:'Times New Roman', Times, serif;
+    font-family:'Courier New', Courier, monospace;
     margin: 40px;
     background-image: url(images/roocoocoo-transformed.jpeg);
     background-repeat: no-repeat;
@@ -70,6 +70,5 @@ text-align: center;
 .project p { 
     text-align: right;
     font-weight:200;
-    font-family: ;
     margin: 15px;
     }
