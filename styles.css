@@ -41,7 +41,7 @@ p {
     padding: 5px 5px;
     color: #f3f6dc;
     background: #cad2a1; /* pick a color */
-    border-radius: 50%;
+    border-radius: 0%;
     }
 .projects { 
     display:flex; 
