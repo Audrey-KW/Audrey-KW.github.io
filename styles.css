@@ -56,7 +56,7 @@ p {
     height: 300px;
     margin: 10px;
     border: 4px solid #fcfef2; /* choose a color */
-    display: block;
+    display: inline-block;
     margin: auto;
     }
 a { 
